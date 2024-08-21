@@ -1,8 +1,9 @@
+
 file_list 내용
 ================
 scott.emp
 scott.sallary
-
+=================
 
 실행 방법
 sh vacuum_config_set.sh  file_list
