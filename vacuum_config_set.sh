@@ -7,7 +7,7 @@ if [ $# -ne 1 ]; then
 fi
 
 DBNAME="adi"
-USERNAME="adi"
+USERNAME="scott"
 
 echo "======================================================================== "
 echo " $DBNAME DB table level autovacuum config setting ... "
