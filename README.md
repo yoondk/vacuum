@@ -1,6 +1,5 @@
 
 file_list 내용
----------------
 scott.emp
 scott.sallary
 
